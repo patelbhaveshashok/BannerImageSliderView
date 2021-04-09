@@ -1,0 +1,6 @@
+use_frameworks!
+target 'BannerImageSliderView_Tests' do
+  pod 'BannerImageSliderView', :path => '../'
+  
+  
+end

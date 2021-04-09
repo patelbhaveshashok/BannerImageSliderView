@@ -1,0 +1,6 @@
+framework module BannerImageSliderView {
+  umbrella header "BannerImageSliderView-umbrella.h"
+
+  export *
+  module * { export * }
+}

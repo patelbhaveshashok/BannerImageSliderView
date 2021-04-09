@@ -1,0 +1,16 @@
+PODS:
+  - BannerImageSliderView (0.1.0)
+
+DEPENDENCIES:
+  - BannerImageSliderView (from `../`)
+
+EXTERNAL SOURCES:
+  BannerImageSliderView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  BannerImageSliderView: f0400d3acc91c14ed8d34f9a3b6260bc1af09dec
+
+PODFILE CHECKSUM: e9f5b55e188906bdc8f081b4209705ffde9cc1ec
+
+COCOAPODS: 1.10.1

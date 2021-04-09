@@ -22,7 +22,7 @@ pod 'BannerImageSliderView'
 
 ## Author
 
-patelbhaveshashok, patelbhaveshashok@gmail.com
+Bhavesh Patel, patelbhaveshashok@gmail.com
 
 ## License
 
